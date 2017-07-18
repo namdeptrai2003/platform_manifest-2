@@ -17,7 +17,7 @@ Repo initialization:
 
 sync repo :
 
-    $ repo sync -j8
+    $ repo sync 
 
 ***
 
